@@ -1,0 +1,10 @@
+C:\Users\ShyamK\source\repos\ML_ODS\ML_ODS\bin\Debug\ML_ODS.dacpac
+C:\Users\ShyamK\source\repos\ML_ODS\ML_ODS\bin\Debug\ML_ODS.dll
+C:\Users\ShyamK\source\repos\ML_ODS\ML_ODS\bin\Debug\ML_ODS.pdb
+C:\Users\ShyamK\source\repos\ML_ODS\ML_ODS\obj\Debug\ML_ODS.sqlproj.AssemblyReference.cache
+C:\Users\ShyamK\source\repos\ML_ODS\ML_ODS\obj\Debug\Model.xml
+C:\Users\ShyamK\source\repos\ML_ODS\ML_ODS\obj\Debug\refactor.xml
+C:\Users\ShyamK\source\repos\ML_ODS\ML_ODS\obj\Debug\postdeploy.sql
+C:\Users\ShyamK\source\repos\ML_ODS\ML_ODS\obj\Debug\predeploy.sql
+C:\Users\ShyamK\source\repos\ML_ODS\ML_ODS\obj\Debug\ML_ODS.dll
+C:\Users\ShyamK\source\repos\ML_ODS\ML_ODS\obj\Debug\ML_ODS.pdb

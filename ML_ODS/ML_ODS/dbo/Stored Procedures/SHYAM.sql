@@ -1,0 +1,5 @@
+﻿CREATE PROCEDURE SHYAM
+AS
+BEGIN
+SELECT * FROM [dbo].[employees]
+END
